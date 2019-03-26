@@ -2,7 +2,7 @@
 
 **IMPORTANT**:  This is a public repository. _Do not include proprietary or confidential information in this repository._
 
-Use this repo to submit defects, bugs, enhancement requests, and other issues related to the DevNet Express for Cloud Collaboration learning tracks.
+Use this repo to submit defects, bugs, enhancement requests, and other issues related to the DevNet Express for Data Center Infrastructure learning tracks.
 
 URL of the track related to this repo:
 
